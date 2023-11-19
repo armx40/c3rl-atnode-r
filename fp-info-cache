@@ -1,4 +1,4 @@
-21256621611118880
+21335104880459292
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55418,6 +55418,34 @@ wurth wuerth smd inductor
 0
 2
 2
+Inductor_SMD_Wurth
+L_Wurth_WE-LQSH-2010
+Semi-Shielded High Saturation Power Inductor, body 2x1.6mm, https://www.we-online.com/catalog/en/WE-LQSH#/articles/WE-LQSH-2010
+SMT
+0
+2
+2
+Inductor_SMD_Wurth
+L_Wurth_WE-LQSH-2512
+Semi-Shielded High Saturation Power Inductor, body 2.5x2mm, https://www.we-online.com/catalog/en/WE-LQSH#/articles/WE-LQSH-2512
+SMT
+0
+2
+2
+Inductor_SMD_Wurth
+L_Wurth_WE-LQSH-3012
+Semi-Shielded High Saturation Power Inductor, body 3x3mm, https://www.we-online.com/catalog/en/WE-LQSH#/articles/WE-LQSH-3012
+SMT
+0
+2
+2
+Inductor_SMD_Wurth
+L_Wurth_WE-LQSH-4020
+Semi-Shielded High Saturation Power Inductor, body 4x4mm, https://www.we-online.com/catalog/en/WE-LQSH#/articles/WE-LQSH-4020
+SMT
+0
+2
+2
 Inductor_THT
 Choke_EPCOS_B82722A
 Current-Compensated Ring Core Double Chokes, EPCOS, B82722A, 22.3mmx22.7mm, https://en.tdk.eu/inf/30/db/ind_2008/b82722a_j.pdf
@@ -57224,6 +57252,76 @@ L_Toroid Vertical series Radial pin pitch 31.80mm  length 67.6mm width 36.1mm Vi
 0
 2
 2
+Inductor_THT_Wurth
+L_Wurth_WE-HCFT-2012_LeadDiameter1.2mm
+Shielded High Current Inductor, body 17x22mm, https://www.we-online.com/catalog/en/WE-HCFT#/articles/WE-HCFT-2012-ROUND
+THT
+0
+2
+2
+Inductor_THT_Wurth
+L_Wurth_WE-HCFT-2012_LeadDiameter1.5mm
+Shielded High Current Inductor, body 17x22mm, https://www.we-online.com/catalog/en/WE-HCFT#/articles/WE-HCFT-2012-ROUND
+THT
+0
+2
+2
+Inductor_THT_Wurth
+L_Wurth_WE-HCFT-2504
+Shielded High Current Inductor, body 22x25.7mm, https://www.we-online.com/catalog/en/WE-HCFT#/articles/WE-HCFT_SIZE_2504
+THT
+0
+2
+2
+Inductor_THT_Wurth
+L_Wurth_WE-HCFT-3521
+Shielded High Current Inductor, body 21.5x36mm, https://www.we-online.com/catalog/en/WE-HCFT#/articles/WE-HCFT-3521
+THT
+0
+4
+2
+Inductor_THT_Wurth
+L_Wurth_WE-HCFT-3533_LeadDiameter1.8mm
+Shielded High Current Inductor, body 34.5x36mm, https://www.we-online.com/catalog/en/WE-HCFT#/articles/WE-HCFT-3533-ROUND
+THT
+0
+4
+2
+Inductor_THT_Wurth
+L_Wurth_WE-HCFT-3533_LeadDiameter2.0mm
+Shielded High Current Inductor, body 34.5x36mm, https://www.we-online.com/catalog/en/WE-HCFT#/articles/WE-HCFT-3533-ROUND
+THT
+0
+4
+2
+Inductor_THT_Wurth
+L_Wurth_WE-HCFT-3540_LeadDiameter0.8mm
+Shielded High Current Inductor, body 41x36mm, https://www.we-online.com/catalog/en/WE-HCFT#/articles/WE-HCFT-3540
+THT
+0
+4
+2
+Inductor_THT_Wurth
+L_Wurth_WE-HCFT-3540_LeadDiameter1.3mm
+Shielded High Current Inductor, body 41x36mm, https://www.we-online.com/catalog/en/WE-HCFT#/articles/WE-HCFT-3540
+THT
+0
+4
+2
+Inductor_THT_Wurth
+L_Wurth_WE-HCFT-3540_LeadDiameter1.5mm
+Shielded High Current Inductor, body 41x36mm, https://www.we-online.com/catalog/en/WE-HCFT#/articles/WE-HCFT-3540
+THT
+0
+4
+2
+Inductor_THT_Wurth
+L_Wurth_WE-HCFT-3540_LeadDiameter2.0mm
+Shielded High Current Inductor, body 41x36mm, https://www.we-online.com/catalog/en/WE-HCFT#/articles/WE-HCFT-3540
+THT
+0
+4
+2
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
@@ -58562,6 +58660,13 @@ Connector
 7
 7
 Libraries
+470531000
+<b>47053-1000</b><br>
+
+0
+4
+4
+Libraries
 AMPHENOL_10029449-001RLF
 
 
@@ -58716,6 +58821,13 @@ ESDS302DBVR
 5
 5
 Libraries
+FH1222S05SH198
+FH12-22S-0.5SH(1)(98)-1
+Connector
+0
+24
+24
+Libraries
 FUSER_MF-MSMF110
 
 
@@ -58863,6 +58975,13 @@ LED_CLMVC-FKA-CL1D1L71BB7C3C3
 4
 4
 Libraries
+MIC_ICS-40212
+
+
+0
+5
+5
+Libraries
 MIC_ICS-43432
 
 
@@ -58876,6 +58995,20 @@ MIC_ICS-43434
 0
 6
 6
+Libraries
+MIC_SPH0645LM4H-B
+
+
+0
+6
+6
+Libraries
+MODULE_CM4102008
+
+
+0
+204
+204
 Libraries
 MODULE_ESP32-C3-WROOM-02-H4
 
@@ -58897,6 +59030,13 @@ MOLEX_47151-1051
 0
 23
 23
+Libraries
+MOLEX_503398-1892
+
+
+0
+14
+14
 Libraries
 MTAC
 
@@ -59024,6 +59164,13 @@ Integrated Circuit
 57
 57
 Libraries
+QFN50P200X155X50-10N
+
+
+0
+10
+10
+Libraries
 QFN50P350X350X100-15N
 
 
@@ -59093,6 +59240,13 @@ SAMTEC_HDMR-19-02-S-SM-TR
 0
 23
 23
+Libraries
+SAMTEC_PCIE-036-02-F-D-TH
+
+
+0
+36
+36
 Libraries
 SMF5.0A
 
@@ -59171,6 +59325,13 @@ Integrated Circuit
 8
 8
 Libraries
+SOP65P490X110-8N
+TSSOP8: plastic thin shrink small outline package; 8 leads; body width 3 mm---
+Integrated Circuit
+0
+8
+8
+Libraries
 SOT23-5P95_280X145XL45X37N
 
 
@@ -59227,6 +59388,13 @@ SOT95P280X100-6N
 6
 6
 Libraries
+SOT95P280X145-5N
+
+
+0
+5
+5
+Libraries
 SOT95P282X145-5N
 AP3418-SOT25
 Power Supply
@@ -59262,6 +59430,13 @@ Integrated Circuit
 6
 6
 Libraries
+SW_PI3USB102ZLEX
+
+
+0
+10
+10
+Libraries
 T4086
 T4086
 Integrated Circuit
@@ -59283,12 +59458,26 @@ TE_292207-4
 4
 4
 Libraries
+TE_1717254-1
+
+
+0
+202
+202
+Libraries
 TE_1775838-2
 
 
 0
 54
 54
+Libraries
+TE_2013978-1
+
+
+0
+23
+23
 Libraries
 TE_2199119-3
 
@@ -59303,6 +59492,13 @@ TE_2199119-8
 0
 69
 69
+Libraries
+TE_2201778-1
+
+
+0
+16
+16
 Libraries
 TE_5103308-1
 
@@ -59562,62 +59758,6 @@ mpci, pci, pci express
 0
 60
 52
-Logos
-c3rl_qr
-
-
-0
-0
-0
-Logos
-c3rl_qr_atnodecr
-
-
-0
-0
-0
-Logos
-c3rl_qr_atnoder
-
-
-0
-0
-0
-Logos
-c3rl_qr_cnode
-
-
-0
-0
-0
-Logos
-c3rl_qr_gnode
-
-
-0
-0
-0
-Logos
-c3rl_qr_snode
-
-
-0
-0
-0
-Logos
-c3rl_qr_swboard
-
-
-0
-0
-0
-Logos
-c3rl_sqaure
-
-
-0
-0
-0
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -59863,6 +60003,13 @@ ESP8266 WiFi microcontroller
 0
 16
 16
+Motors
+Vybronics_VZ30C1T8219732L
+Vibration motor, 2.3-3.2V, 14000rpm, 0.7G, https://www.vybronics.com/wp-content/uploads/datasheet-files/Vybronics-VZ30C1T8219732L-datasheet.pdf
+vibration motor Vybronics
+0
+12
+3
 MountingEquipment
 DINRailAdapter_3xM3_PhoenixContact_1201578
 https://www.phoenixcontact.com/online/portal/us?uri=pxc-oc-itemdetail:pid=1201578&library=usen&tab=1
@@ -88571,6 +88718,13 @@ c3rl
 1
 1
 c3rl
+470531000
+<b>47053-1000</b><br>
+
+0
+4
+4
+c3rl
 ANT161575ST1202A1
 ANT161575ST-1202A1
 Antenna
@@ -88641,6 +88795,13 @@ Undefined or Miscellaneous
 3
 3
 c3rl
+FH1222S05SH198
+FH12-22S-0.5SH(1)(98)-1
+Connector
+0
+24
+24
+c3rl
 FUSER_MF-MSMF110
 
 
@@ -88704,12 +88865,33 @@ IC_ADS125H01IRHBT
 38
 38
 c3rl
+MIC_ICS-40212
+
+
+0
+5
+5
+c3rl
 MIC_ICS-43434
 
 
 0
 6
 6
+c3rl
+MIC_SPH0645LM4H-B
+
+
+0
+6
+6
+c3rl
+MODULE_CM4102008
+
+
+0
+204
+204
 c3rl
 MODULE_ESP32-C3-WROOM-02-H4
 
@@ -88724,6 +88906,13 @@ MODULE_ESP32-WROOM-32UE(M113EH6400UH3Q0)
 0
 59
 59
+c3rl
+MOLEX_503398-1892
+
+
+0
+14
+14
 c3rl
 NEOM9N00B
 NEO-M9N-00B-2
@@ -88802,6 +88991,13 @@ QFN40P300X300X105-24N
 24
 24
 c3rl
+QFN50P200X155X50-10N
+
+
+0
+10
+10
+c3rl
 QFN100P300X300X100-7N
 
 
@@ -88830,8 +89026,22 @@ RCWL9196
 5
 5
 c3rl
+SAMTEC_PCIE-036-02-F-D-TH
+
+
+0
+36
+36
+c3rl
 SOIC127P600X175-8N
 AT24C32E-SSHM-T-1
+Integrated Circuit
+0
+8
+8
+c3rl
+SOP65P490X110-8N
+TSSOP8: plastic thin shrink small outline package; 8 leads; body width 3 mm---
 Integrated Circuit
 0
 8
@@ -88858,6 +89068,13 @@ Integrated Circuit
 5
 5
 c3rl
+SOT95P280X145-5N
+
+
+0
+5
+5
+c3rl
 SPU0410HR5H
 
 
@@ -88872,12 +89089,40 @@ Tactile Switch
 2
 2
 c3rl
+SW_PI3USB102ZLEX
+
+
+0
+10
+10
+c3rl
 TE_1-292303-1
 
 
 0
 6
 6
+c3rl
+TE_1717254-1
+
+
+0
+202
+202
+c3rl
+TE_2013978-1
+
+
+0
+23
+23
+c3rl
+TE_2201778-1
+
+
+0
+16
+16
 c3rl
 TO-92_Inline_W4.0mm_Horizontal_FlatSideUp
 TO-92 horizontal, leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
@@ -89026,6 +89271,20 @@ c3rl_kicad_logo_mirror_front_small
 0
 0
 c3rl
+c3rl_qr_ionode
+
+
+0
+0
+0
+c3rl
+c3rl_qr_ionode_cm3
+
+
+0
+0
+0
+c3rl
 mouse-bite-1mm-slot
 
 
@@ -89053,6 +89312,13 @@ mouse-bite-3mm-slot
 0
 0
 0
+c3rl
+rtl8723bu-mtu7601
+
+
+0
+14
+14
 c3rl
 zmct103c
 
